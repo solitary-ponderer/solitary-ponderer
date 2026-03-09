@@ -62,14 +62,6 @@ More projects coming as I continue learning and experimenting.
 
 ---
 
-## 📊 GitHub Stats
-
-![Arkonil's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=solitary-ponderer&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=solitary-ponderer&layout=compact&theme=tokyonight)
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/solitary-ponderer/solitary-ponderer/blob/output/github-contribution-grid-snake.svg)
