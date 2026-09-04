@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Class 12 student interested in technology and creative problem solving  
+- 🎓 BTech student interested in technology and creative problem solving  
 - 🧠 Currently learning Python and strengthening programming fundamentals  
 - 🤖 Interested in Artificial Intelligence, software development, automation tools, and game development  
 - 🔍 Curious about how systems work and how software is built  
