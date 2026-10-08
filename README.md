@@ -1,8 +1,8 @@
 # Hi, I'm Arkonil 👋
 
-**Electronics & Communication Engineering student interested in embedded systems, IoT, software, and building things that actually work.**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=solitary-ponderer&color=blueviolet)
+
+**Electronics & Communication Engineering student interested in embedded systems, IoT, software, and building things that actually work.**
 
 I like learning by building projects and experimenting with both hardware and software. Currently exploring embedded systems, microcontrollers, electronics, and programming while continuing to strengthen my fundamentals.
 
