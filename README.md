@@ -1,6 +1,6 @@
-# Hi, I'm Arkonil 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=solitary-ponderer&color=blueviolet)
+
+# Hi, I'm Arkonil 👋
 
 **Electronics & Communication Engineering student interested in embedded systems, IoT, software, and building things that actually work.**
 
